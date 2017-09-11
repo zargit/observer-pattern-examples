@@ -1,0 +1,5 @@
+#python
+python/__pycache__/
+.idea/
+python/*.py[cod]
+python/*$py.class
